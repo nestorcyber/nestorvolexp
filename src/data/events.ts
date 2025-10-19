@@ -36,8 +36,8 @@ export const volunteerEvents: VolunteerEvent[] = [
     title: 'AWS Student Community Day',
     organization: 'AWS Club FUTO',
     date: 'November 2024',
-    role: 'Frontdesk Assistant',
-    story: 'Helped manage attendee registration and coordination, ensuring smooth event flow and a welcoming experience during one of FUTO\'s biggest AWS gatherings.',
+    role: 'Front Desk and Design',
+    story: 'Helped manage attendee registration and coordination, ensuring smooth event flow and a welcoming experience during one of FUTO\'s biggest AWS gatherings. Also supported design tasks for event materials and signage.',
     impact: '',
     images: [
       'https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg?auto=compress&cs=tinysrgb&w=1200',
@@ -45,5 +45,21 @@ export const volunteerEvents: VolunteerEvent[] = [
       'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1200',
     ],
     category: 'tech'
+  },
+  {
+    id: 'gida-skillup-owerri',
+    title: 'Gida Skillup Tour Owerri',
+    organization: 'Ginakev Digital Academy (Gida)',
+    date: 'October',
+    role: 'Volunteer',
+    story: 'Participated in the Gida Skillup Tour in Owerri with Ginakev Digital Academy, supporting community learning and digital empowerment for young creatives.',
+    impact: '',
+    images: [
+      'Gida1',
+      'Gida2',
+      'Gida2',
+      'Gida2'
+    ],
+    category: 'community'
   },
 ];
